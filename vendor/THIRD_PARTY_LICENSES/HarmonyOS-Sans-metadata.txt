@@ -1,0 +1,4 @@
+HarmonyOS Sans SC
+Bundled at the user's explicit request, from the locally installed original font.
+
+Copyright 2021 Huawei Device Co., Ltd. All Rights Reserved.

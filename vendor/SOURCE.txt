@@ -1,0 +1,4 @@
+The wx4 code in this directory is from https://github.com/mofan6/Moect,
+downloaded 2026-11-06. Moect and the bundled code are distributed under
+GPL-3.0; see LICENSE-Moect.txt and THIRD_PARTY_NOTICES.md. Files are included
+to keep this skill independent of a temporary checkout or network access.

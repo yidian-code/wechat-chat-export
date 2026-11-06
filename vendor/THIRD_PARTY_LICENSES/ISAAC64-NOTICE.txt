@@ -1,0 +1,8 @@
+ISAAC-64 algorithm
+Bob Jenkins, 1996
+Original source: https://burtleburtle.net/bob/c/isaac64.c
+
+Original declaration: "By Bob Jenkins, 1996. Public Domain."
+
+core/sns_codec.py implements the reference algorithm in Python for local SNS
+media decoding. No WeFlow native binary or implementation is bundled.
